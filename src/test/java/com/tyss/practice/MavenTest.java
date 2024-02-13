@@ -6,6 +6,6 @@ public class MavenTest {
 
 	@Test
 	public void test1() {
-		System.out.println("testing-");
+		System.out.println("***testing****");
 	}
 }
